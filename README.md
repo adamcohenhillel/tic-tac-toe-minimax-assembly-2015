@@ -3,6 +3,9 @@ Tic Tac Toe with Minimax Algorithm implemented with Assembly
 
 
 ### Screenshots:
+![Alt text](/screenshots/image1.png?raw=true "Screenshot 1")
+![Alt text](/screenshots/image2.png?raw=true "Screenshot 2")
+![Alt text](/screenshots/image3.png?raw=true "Screenshot 3")
 
 
 ### How to run:
