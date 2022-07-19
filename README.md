@@ -1,5 +1,5 @@
 # tic-tac-toe-minimax-assembly-2015
-Tic Tac Toe with Minimax Algorithm implemented with Assembly I've made back in 2015!
+Tic Tac Toe with Minimax Algorithm implemented in Assembly I've made back in 2015!
 
 There is no need to explain what Tic Tac Toe is, but what is interesting in the repo is the implementation of the minimax algorithm
 
